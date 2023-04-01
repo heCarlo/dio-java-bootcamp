@@ -29,5 +29,4 @@ public class CTDriver {
 		ContaTerminal c1 = new ContaTerminal(tempNumero, tempAgencia, tempCliente, tempCredito);
         System.out.println("Olá "+tempCliente+", obrigado por criar uma conta em nosso banco, sua agência é "+tempAgencia+", conta "+tempNumero+" e seu saldo "+tempCredito+" já está disponível para saque.");
     }
-
 }

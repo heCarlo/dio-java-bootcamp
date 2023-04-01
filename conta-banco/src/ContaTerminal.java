@@ -1,6 +1,3 @@
-import javax.print.attribute.standard.NumberOfInterveningJobs;
-import java.util.Scanner;
-
 public class ContaTerminal {
             private int numero;
             private String agencia;
